@@ -242,8 +242,7 @@ Open the sidebar (top-left arrow) to view the accuracy plot and confusion matrix
 
 ## 🌐 Live Demo
 
-> 🚀 **[Live Demo Placeholder](https://your-app.streamlit.app)**  
-> *(Deploy on Streamlit Cloud and replace this link)*
+> 🚀 **[Live Demo](https://cinescope-sentiment-wurpdyydmhk9uhjm66smjq.streamlit.app)** 
 
 ---
 
@@ -323,5 +322,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ---
 
 <div align="center">
-Made with ☕ and Python &nbsp;·&nbsp; <a href="https://github.com/your-username/sentiment-dashboard">GitHub</a>
+Made with ☕ and Python · [GitHub](https://github.com/Ozse97/cinescope-sentiment)
 </div>
